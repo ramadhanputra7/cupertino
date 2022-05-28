@@ -1,6 +1,6 @@
 # cupertino
 
-A new Flutter project.
+Cupertino
 
 ## Getting Started
 
